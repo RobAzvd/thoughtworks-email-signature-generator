@@ -4,9 +4,9 @@ define([], function () {
     return {
         "language": "en",
         "theme": "pink",
-        "name": "Thought Worker",
-        "title": "Consultant",
-        "email": "tworker@thoughtworks.com",
-        "telephone": "+1 234 567 8910"
+        "name": "Trent Myner",
+        "title": "TrendMiner",
+        "email": "tworker@trendminer.com",
+        "telephone": "+32 11 26 38 30"
     };
 });
